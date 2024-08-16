@@ -5,3 +5,7 @@ packages:
     # place your package-specific config here
     config:
       all: true
+  github.com/zapier/kubechecks/pkg/vcs/gitlab_client:
+    # place your package-specific config here
+    config:
+      all: true
